@@ -18,7 +18,7 @@ agfunctional,"definiert die Zugehörigkeit in den Gremien der AG (3= Vorstand, 4
 vfunctional,"definiert die Zugehörigkeit in den Gremien des Vereins (1= Präsidium, 2= Vereinsbeirat, 5= Ehrenpräsident)",,,,,
 representation,"definiert den aktuellen Zuständigkeitsbereich (1= Sport, 2= Kommunikation, 3= Wirtschaft, 4= Wissenschaft)",,,,,
 position,"definiert das aktuelle Amt der Person (1= Vorsitzender, 2= Stellvertreter, 3= einfaches Mitglied)",,,,,
-influence,"definiert auf welcher Seite der/die Akteur/in steht (1= Team Hitzlsperger, 2= Team Vogt, 3= nicht zuordenbar)",,,,,
+influence,"definiert auf welcher Seite der/die Akteur/in steht (1= Team Hitzlsperger, 2= Team Vogt)",,,,,
 status,"definiert die aktuelle Beschäftigung in den Strukturen des VfB Stuttgart (1= aktiv, 2= nicht mehr beschäftigt, 3= Posten im Gespräch)",,,,,
 ,,,,,,
 Datensammlung,,,,,,
